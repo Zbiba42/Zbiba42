@@ -44,7 +44,8 @@
 
 <br/>
 
-<div style="display: flex;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbiba42&theme=dark" alt="zbiba42" style="width: 50%; height: auto;"/>
-  <img alt="Zbiba42 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Zbiba42&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" style="width: 50%; height: auto;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbiba42&theme=dark" alt="zbiba42" height="190px" style="float: left; margin-right: 10px;" />
+  <img alt="Zbiba42 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Zbiba42&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190px" style="float: right; margin-left: 10px;" />
+</p>
+
