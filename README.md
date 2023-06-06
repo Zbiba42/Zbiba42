@@ -15,8 +15,8 @@
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://twitter.com/twittle" target="blank"><img src="./images/twitter.svg" alt="twittle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@linkedin" target="blank"><img src="./images/linked-in-alt.svg" alt="@linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/Zbiba42" target="blank"><img src="./images/twitter.svg" alt="Zbiba42" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abderrahmane-fatimi-209995251/" target="blank"><img src="./images/linked-in-alt.svg" alt="abderrahmane-fatimi" height="30" width="40" /></a>
 <a href="https://discord.gg/@discrod" target="blank"><img src="./images/discord.svg" alt="@discrod" height="30" width="40" /></a>
 </p>
 
