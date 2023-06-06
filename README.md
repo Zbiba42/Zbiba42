@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abderrahmanefatimi742@gmail.com**
 
-- ⚡ Fun fact **i have ADHD and severe mental health problems :D**
+- ⚡ Fun fact **i can have any experience in the world using my imagination**
 
 <h3>Connect with me:</h3>
 <p>
