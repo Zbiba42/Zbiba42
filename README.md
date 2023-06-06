@@ -21,7 +21,7 @@
 <p align='center'>
 <a href="https://twitter.com/Zbiba42" target="_blank"><img src="./images/twitter.svg" alt="Zbiba42" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abderrahmane-fatimi-209995251/" target="_blank"><img src="./images/linked-in-alt.svg" alt="abderrahmane-fatimi" height="30" width="40" /></a>
-<a href="https://discord.gg/Zbiba#8512" target="_blank"><img src="./images/discord.svg" alt="Zbiba#8512" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/Zbiba#8512" target="_blank"><img src="./images/discord.svg" alt="Zbiba#8512" height="30" width="40" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>
