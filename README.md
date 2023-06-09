@@ -1,13 +1,12 @@
-<h1>Hi 👋, I'm Abderrahmane Fatimi</h1>
-<h3>A passionate full-stack developer</h3>
-
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=zbiba42&label=Profile%20views&color=0e75b6&style=flat" alt="zbiba42" /> </p>
-
-
-<p width='100%' align="center" >
-  <img align="center" width='90%' src="https://github-profile-trophy.vercel.app/?username=Zbiba42&column=7" />
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=zbiba42&label=Profile%20views&color=0B3954&style=for-the-badge" alt="zbiba42" /> 
 </p>
+<h1 align="center"><img align="center" width="50px" src="./hollow-knight.gif">Hi  I'm Abderrahmane Fatimi<img align="center" width="50px" src="./hollow-knight.gif"></h1>
 
+<h3 align="center">passionate full-stack <img width="20px" src="./js-java-script.gif"> developer</h3>
+<p width='100%' align="center" >
+  <img align="center" width='90%' src="./dark-souls-bonefire.gif">
+</p>
 
 - 🔭 I’m currently working on a **Social media website**
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **abderrahmanefatimi742@gmail.com**
 
-- ⚡ Fun fact **i can have any experience in the world using my imagination**
+- ⚡ Fun fact **i have ADHD and anger issues**
 
 <h3>Connect with me:</h3>
 <p align='center'>
@@ -59,6 +58,5 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbiba42&theme=dark" alt="zbiba42" height="150px" style="float: left; margin-right: 10px;" />
-  <img alt="Zbiba42 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Zbiba42&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150px" style="float: right; margin-left: 10px;" />
+  <img alt="Zbiba42 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Zbiba42&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150px" style="float: right" />
 </p>
-
