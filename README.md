@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abderrahmanefatimi742@gmail.com**
 
-- ⚡ Fun fact **i have ADHD and anger issues**
+- ⚡ Fun fact **My IQ score stands at 137**
 
 <h3>Connect with me:</h3>
 <p align='center'>
