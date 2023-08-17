@@ -15,7 +15,7 @@
 - 📫 How to reach me **abderrahmanefatimi742@gmail.com**
 
 - ⚡ Fun fact **My IQ score stands at 137**
-
+  
 <h3>Connect with me:</h3>
 <p align='center'>
 <a href="https://twitter.com/Zbiba42" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Zbiba42"/></a>
@@ -60,3 +60,5 @@
   style="float: left; margin-right: 10px;" />
   <img alt="Zbiba42 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Zbiba42&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  width="44%" style="float: right" />
 </p>
+
+<p align="center"><img src="https://lanyard.kyrie25.me/api/394919954954321920?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"/> </p>
