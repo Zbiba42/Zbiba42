@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on a **Social media website**
 
-- 🌱 I’m currently learning **Typescript** and **Laravel**
+- 🌱 I’m currently learning **C** and **Java**
 
-- 📫 How to reach me **abderrahmanefatimi742@gmail.com**
+- 📫 How to reach me **fatimiabderrahmane@gmail.com**
 
 - ⚡ Fun fact **My IQ score stands at 137**
   
