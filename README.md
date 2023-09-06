@@ -8,7 +8,7 @@
   <img align="center" width='90%' src="./dark-souls-bonefire.gif">
 </p>
 
-- 🔭 I’m currently working on a **Social media website**
+- 🔭 I’m currently working on a **online watch together room**
 
 - 🌱 I’m currently learning **C** and **Java**
 
