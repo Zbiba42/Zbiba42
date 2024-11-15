@@ -55,11 +55,10 @@
 ![socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
+
+
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zbiba42&theme=dark)](https://git.io/streak-stats)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbiba42&theme=dark" alt="zbiba42" 
-  width="52%"
-  style="float: left; margin-right: 10px;" />
+  <img src="https://streak-stats.demolab.com?user=Zbiba42" alt="https://streak-stats.demolab.com?user=Zbiba42" />
   <img alt="Zbiba42 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Zbiba42&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  width="44%" style="float: right" />
 </p>
 
