@@ -56,6 +56,7 @@
 ![electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 <p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zbiba42&theme=dark)](https://git.io/streak-stats)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbiba42&theme=dark" alt="zbiba42" 
   width="52%"
   style="float: left; margin-right: 10px;" />
