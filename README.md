@@ -5,7 +5,7 @@
 
 <h3 align="center">passionate full-stack <img width="20px" src="./js-java-script.gif"> developer</h3>
 <p width='100%' align="center" >
-  <img align="center" width='90%' src="./dark-souls-bonefire.gif">
+  <img align="center" width='90%' src="./Bored Video Game GIF by CAPCOM.gif">
 </p>
 
 - 🌱 I’m currently learning **Cyber Security**
