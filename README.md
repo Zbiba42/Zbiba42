@@ -73,7 +73,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zbiba42" alt="https://streak-stats.demolab.com?user=Zbiba42" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Zbiba42&theme=dark" alt="https://streak-stats.demolab.com?user=Zbiba42" width="60%" />
   <img alt="Zbiba42 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Zbiba42&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="38%" />
 </p>
 
